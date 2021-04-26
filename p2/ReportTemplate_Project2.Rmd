@@ -1,0 +1,68 @@
+---
+title: "Questionnaire About Adolescent drinking"
+author: "Wed3Re_Group_10 in Canvas: 490097216,500325595,500411142,510528584,"
+subtitle: "Project 2"
+date: "University of Sydney | DATA1001 | April 2021"
+output:
+  html_document:
+    fig_caption: yes
+    number_sections: yes
+    self_contained: yes
+    theme: flatly
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    code_folding: hide
+---
+
+<br>Executive Summary
+
+<br>
+
+# Full Report
+
+## Initial Data Analysis (IDA)
+
+```{r, eval = F}
+# Read in your survey data
+survey = read.csv(#you will need to put your file path here!)
+```
+
+<br>
+
+## Research Questions 1
+About how old were you the first time you drank alcohol (not counting sips you might have had as child?) If you never drink alcohol, fill in ”“None“
+### Yusong
+<br>
+
+## Research Questions 2
+Different age groups cited their parents, themselves or others as the main reason for underage drinking
+Age
+在创造两列数字，
+### Zhongxu
+<br>
+
+## Research Questions 3
+Compare the spend on one mouth for drinking and spend on entertainment each month
+### Zhehan
+<br> 
+
+## Related Articles
+
+<br>
+
+## References
+Use APA
+
+<br>
+
+## Acknowledgments
+When did you team meet (date and time), and what did each team member contribute?
+
+
+
+
+
+
+
+

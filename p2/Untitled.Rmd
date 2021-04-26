@@ -1,0 +1,56 @@
+---
+title: "Title of Project"
+author: "Group # in Canvas; Student SIDs"
+subtitle: "Project 2"
+date: "University of Sydney | DATA1001 | September 2020"
+output:
+  html_document:
+    fig_caption: yes
+    number_sections: yes
+    self_contained: yes
+    theme: flatly
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    code_folding: hide
+---
+
+<br>
+
+# Executive Summary
+
+<br>
+
+# Full Report
+
+## Initial Data Analysis (IDA)
+
+```{r, eval = F}
+# Read in your survey data
+survey = read.csv(#you will need to put your file path here!)
+```
+
+<br>
+
+## Research Questions 
+
+<br>
+
+## Related Articles
+
+<br>
+
+## References
+Use APA
+
+<br>
+
+## Acknowledgments
+When did you team meet (date and time), and what did each team member contribute?
+
+
+
+
+
+
+
